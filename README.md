@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Okay, this is my first project on my own after I finished the Le Wagon Bootcamp.
+It is just a skeleton and this code is nothing more than the Ruby on Rails Getting Start.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Yep, that one you can find on:
+https://guides.rubyonrails.org/getting_started.html
